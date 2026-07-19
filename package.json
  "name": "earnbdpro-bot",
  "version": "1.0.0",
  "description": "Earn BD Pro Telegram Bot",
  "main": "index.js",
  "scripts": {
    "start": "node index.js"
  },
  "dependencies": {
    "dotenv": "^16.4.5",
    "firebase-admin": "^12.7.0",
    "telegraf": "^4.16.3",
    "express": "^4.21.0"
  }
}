@@ -1,0 +1,15 @@
+{
+  "name": "earnbdpro",
+  "version": "1.0.0",
+  "description": "Earn BD Pro Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "express": "^4.21.0",
+    "dotenv": "^16.4.7",
+    "firebase-admin": "^13.0.1"
+  }
+}
